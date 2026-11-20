@@ -1,0 +1,10 @@
+climate:
+  - platform: mirage
+    name: Mirage Climate
+    model: KKG29A-C1
+    transmitter_id: xmitr
+
+button:
+  - platform: mirage
+    display:
+      name: Display
